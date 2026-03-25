@@ -10,8 +10,6 @@ Music plays when you look down. Music pauses when you look up.
 3. python day01.py
 
 ## What I learned
-- OpenCV opens the webcam
-- MediaPipe tracks 468 face landmarks
 - Threshold = the trigger point (sensor → threshold → actuator)
 - pygame plays audio
 
